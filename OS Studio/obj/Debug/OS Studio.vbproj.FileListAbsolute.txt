@@ -1,0 +1,19 @@
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\bin\Debug\OS Studio.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\bin\Debug\OS Studio.exe
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\bin\Debug\OS Studio.pdb
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\bin\Debug\OS Studio.xml
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS_Studio.Form1.resources
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS_Studio.Resources.resources
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS Studio.vbproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS Studio.exe
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS Studio.xml
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS Studio.pdb
+c:\users\alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS_Studio.AboutBox1.resources
+C:\Users\Alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS_Studio.ColorSelector.resources
+C:\Users\Alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS_Studio.BinDecHexConverter.resources
+C:\Users\Alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS_Studio.BugRep.resources
+C:\Users\Alex\documents\visual studio 2012\Projects\OS Studio\OS Studio\obj\Debug\OS_Studio.Dialog1.resources
+C:\Users\Alex\Documents\GitHub\OS Studio\OS Studio\OS Studio\bin\Debug\OS Studio.exe.config
+C:\Users\Alex\Documents\GitHub\OS Studio\OS Studio\OS Studio\obj\Debug\OS Studio.exe
+C:\Users\Alex\Documents\GitHub\OS Studio\OS Studio\OS Studio\obj\Debug\OS Studio.xml
+C:\Users\Alex\Documents\GitHub\OS Studio\OS Studio\OS Studio\obj\Debug\OS Studio.pdb
